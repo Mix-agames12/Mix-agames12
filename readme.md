@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com//mix_agames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/mix_agames" height="30" width="40" /></a>
+<a href="https://twitter.com/mix_agames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/mix_agames" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthony-guerra-b5910715b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-guerra-b5910715b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22161000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22161000" height="30" width="40" /></a>
 </p>
