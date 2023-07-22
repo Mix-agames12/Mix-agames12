@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Kotlin**
 
-- 💬 Ask me about **vim**
+- 💬 Ask me about **LaTeX**
 
 - ⚡ Fun fact **I like to take on challenges**
 
